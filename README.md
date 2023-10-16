@@ -3,6 +3,9 @@
 ## Descripción
 
 Esta aplicación consume datos de una API para mostrar información relevante sobre criptomonedas en una tabla interactiva. La tabla permite al usuario ordenar la información por cualquier cabecera, ofreciendo una experiencia de usuario dinámica y personalizada.
+
+## Tecnologias usadas
+
 Trabajado con React Js y Tailwind.
 
 ## Características Principales
