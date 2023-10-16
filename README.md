@@ -1,4 +1,4 @@
-# Aplicación de Tabla de Criptomonedas
+# Aplicación Tabla Criptomonedas
 
 ## Descripción
 
