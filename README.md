@@ -6,7 +6,8 @@ Esta aplicación consume datos de una API para mostrar información relevante so
 
 ## Tecnologias usadas
 
-Trabajado con React Js y Tailwind.
+ <code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+ <code><img height="30" alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
 
 ## Características Principales
 
