@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 function ScrollToTopButton() {
     const handleScrollToTop = () => {
         window.scrollTo({
